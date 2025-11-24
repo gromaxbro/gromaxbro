@@ -1,4 +1,4 @@
-# hey, i'm gromax 👋
+# hey, i'm gromax 
 
 just a lazy programmer looking for some fun.
 
